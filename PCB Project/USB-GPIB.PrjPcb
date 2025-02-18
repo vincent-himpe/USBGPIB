@@ -83,6 +83,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DYFOAIPU
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for USB-GPIB\Design Rule Check - USB-GPIB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
