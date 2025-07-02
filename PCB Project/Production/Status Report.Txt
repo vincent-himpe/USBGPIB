@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Schematic Document [USB-GPIB.SchDoc]
+   Generated File[Bill of Materials-USB-GPIB.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:37:55 AM On 7/2/2025
