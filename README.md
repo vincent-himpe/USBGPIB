@@ -13,33 +13,31 @@ This is only a HARDWARE fork ! The existing firmware/bootloadr/documantation wil
 
 The original data is preserved in the REV4 folder
 
-Changes
-=======
+## Changes
 
-- Converted project to Altium Designer *
-- Changed the FTDI chip from a QFN package to SSO20 for easier soldering
-- Clean up schematic
+- Converted project to Altium Designer
+- Changed the FTDI chip from a QFN package to SSO20 for easier soldering.
+- Clean up schematic.
 - Clean up all footprints and load 3D models
-- Change board outline
-- Redone all routing
-- Change to 4 layer board
-- Shield ring added
+- Change board outline.
+- Redone all routing.
+- Change to 4 layer board.
+- Designed the board to fit a small off-the-shelf Hammond enclosure.
+- Endcap available as a PCB so you don;t have to drill the plastic endcap of the box.
 
+## Layout
 
+The Board is a 4 layer PCB that can easily be produced by the likes of JLCPCB or PCBway.  A full production pack (Gerber / NCdrill, BOM , Pick and place ) is available. 
 
-Why Altium Designer
-===================
-The original project was made in KiCAD. This is a tool I do not know. I have been using Altium in one form or another since it came on a 720K floppy disk in 1986.
-I'm simply way more proficient and productive using tools I know and have been using for decades. 
-I Have provided all source files. Most PCB CAD tools can read Altium Files (KiCAD can), or there is a through another tool.
+## Assembly
 
-You have the source, there are (free) tools that can read it and manipulate it.
-You also have the production data so you can send the board off to your favorite board fab.
+The Bom and pick and place is included for assembly.
 
-Anything else is a discussion I do not want to engage in, or spend time and effort on. 
+## Source Files
 
-License
--------
+All source files are available in Altium Format. That's what i know, have and use. Other CAD programs most likely can import those. So you can modify.
+
+## License
 
 This work is released under the Creative Commons Attribution-Sharealike 3.0 license.
 See http://creativecommons.org/licenses/by-sa/3.0/ or the included license/LICENSE.TXT file for more information.
