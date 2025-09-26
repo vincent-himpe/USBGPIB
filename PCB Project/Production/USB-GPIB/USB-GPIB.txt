@@ -1,0 +1,58 @@
+Altium Designer Pick and Place Locations
+C:\GitHub\USBGPIB\PCB Project\.\Production\USB-GPIB\USB-GPIB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       25/09/25
+Time:       19:32
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                      Layer    Footprint                    Center-X(mil) Center-Y(mil) Rotation Description                               
+C16        CAP0805                      TopLayer CAPC0805                     1851.008      606.095       270      CAPACITOR,CERAMIC,10uF,25V,X5R,0805       
+C15        CAP0603                      TopLayer CAPC0603                     687.622       824.598       180      CAPACITOR,CERAMIC,100nF,50V,X7R,0603      
+R13        RESC0805                     TopLayer RESC0805                     1018.331      444.677       0        RESISTOR,0R,JUMPER                        
+C12        CAP0603                      TopLayer CAPC0603                     628.567       465.346       0        CAPACITOR,CERAMIC,100nF,50V,X7R,0603      
+R12        RESC0603                     TopLayer RESC0603                     383.527       651.101       90       "RESISTOR,27R,1%,100mW,0603 (1608)"       
+R11        RESC0603                     TopLayer RESC0603                     436.677       651.101       90       "RESISTOR,27R,1%,100mW,0603 (1608)"       
+R10        RESC0603                     TopLayer RESC0603                     1081.323      767.512       0        "RESISTOR,1K,1%,100mW,0603 (1608)"        
+R3         RESC0603                     TopLayer RESC0603                     1081.323      652.354       180      "RESISTOR,10K,1%,100mW,0603 (1608)"       
+Q1         SI3443                       TopLayer SOT23-6                      1081.323      553.929       180      XSTR,PMOS,20V,5.97A,VISHAY,SI3443,SOT26   
+D5         TVS-WURTH-824011             TopLayer SOT23-5                      410.102       474.920       0        DIODE,TVS,DUAL,UNIDIRECTIONAL,USB         
+C6         CAP0603                      TopLayer CAPC0603                     1081.323      709.441       0        CAPACITOR,CERAMIC,100nF,50V,X7R,0603      
+C10        CAP0603                      TopLayer CAPC0603                     926.795       936.803       180      CAPACITOR,CERAMIC,100nF,50V,X7R,0603      
+R2         RESC0603                     TopLayer RESC0603                     155.180       1700.866      270      "RESISTOR,4K7,1%,100mW,0603 (1608)"       
+C13        CAP0805                      TopLayer CAPC0805                     887.425       282.276       270      CAPACITOR,CERAMIC,10uF,25V,X5R,0805       
+C11        CAP0805                      TopLayer CAPC0805                     252.982       1724.788      270      CAPACITOR,CERAMIC,10nF,200V,X7R,0805,ESD  
+J2         CONN-HEADER-PIN-1X6          TopLayer HEADER-1X6                   2043.307      947.638       270      ""                                        
+SW1        SWITCH-PANASONIC-EVP-AA202K  TopLayer SWITCH-PANASONIC-EVP-AA202K  1064.591      923.024       270      SW,SMD,TACT,4PIN,2.9X3.5,4PIN             
+FB1        FB0603                       TopLayer FB0603                       799.827       294.874       270      FERRITE,1KZ@100MHz,0R2DC,0603             
+C7         CAP0603                      TopLayer CAPC0603                     629.551       383.654       0        CAPACITOR,CERAMIC,100nF,50V,X7R,0603      
+D4         LED-3MM-GREEN                TopLayer LED-3MM-GREEN                1545.811      330.835       45       LED,TH,GREEN,42mCd,3MM                    
+D3         LED-3MM-GREEN                TopLayer LED-3MM-GREEN                1703.292      330.835       45       LED,TH,GREEN,42mCd,3MM                    
+D2         LED-3MM-GREEN                TopLayer LED-3MM-GREEN                2018.252      330.835       45       LED,TH,GREEN,42mCd,3MM                    
+D1         LED-3MM-GREEN                TopLayer LED-3MM-GREEN                1860.772      330.835       45       LED,TH,GREEN,42mCd,3MM                    
+R4         RESC0603                     TopLayer RESC0603                     257.504       724.205       90       "RESISTOR,1K,1%,100mW,0603 (1608)"        
+R1         RESC0603                     TopLayer RESC0603                     926.795       879.717       0        "RESISTOR,10K,1%,100mW,0603 (1608)"       
+R6         RESC0603                     TopLayer RESC0603                     926.795       824.599       180      "RESISTOR,1K,1%,100mW,0603 (1608)"        
+R8         RESC0603                     TopLayer RESC0603                     166.260       196.519       90       "RESISTOR,5K1,1%,100mW,0603 (1608)"       
+R7         RESC0603                     TopLayer RESC0603                     926.841       993.890       180      "RESISTOR,1K,1%,100mW,0603 (1608)"        
+R5         RESC0603                     TopLayer RESC0603                     200.417       724.205       90       "RESISTOR,1K,1%,100mW,0603 (1608)"        
+R9         RESC0603                     TopLayer RESC0603                     718.134       295.071       90       "RESISTOR,5K1,1%,100mW,0603 (1608)"       
+X1         CRYSTAL-2PIN                 TopLayer XTAL-ABRACON-ABM3            1162.110      268.654       0        "XTAL,18.432MHz,ABRACON ABM3,SMD5032"     
+U4         IC-FTDI-FT231XS-R            TopLayer SO65P640X110-20N             756.890       653.543       180      "IC,XCVR,USB UART,FTDI,FT231XS-R,TSSOP20" 
+P1         CONN-NORCOMP-112-024-113R001 TopLayer CONN-NORCOMP-112-024-113R001 1114.407      2004.918      0        "CONN,GPIB,24P,RIGHT ANGLE,TH"            
+U1         PIC18F4520                   TopLayer QFP80P1200X1200-44N          1538.859      679.804       180      IC,CPU,MICROCHIP,PIC18F4520,TQFP44        
+U2         SN75160B                     TopLayer SO127P1030-20N               1703.843      1291.094      270      IC,XCVR,GPIB,DATA.TI,SN75160DW,SO20W      
+U3         SN75162B                     TopLayer SO127P1030-24N               1103.843      1291.094      270      IC,XCVR,GPIB,CONTROL,TI,SN75162DW,SO24W   
+C4         CAP0603                      TopLayer CAPC0603                     1865.772      706.488       0        CAPACITOR,CERAMIC,100nF,50V,X7R,0603      
+C9         CAP0603                      TopLayer CAPC0603                     1348.843      1021.095      180      CAPACITOR,CERAMIC,100nF,50V,X7R,0603      
+C5         CAP0603                      TopLayer CAPC0603                     1928.843      991.095       270      CAPACITOR,CERAMIC,100nF,50V,X7R,0603      
+C1         CAP0603                      TopLayer CAPC0603                     1230.929      680.898       270      CAPACITOR,CERAMIC,100nF,50V,X7R,0603      
+C2         CAP0603                      TopLayer CAPC0603                     1092.110      373.654       180      CAPACITOR,CERAMIC,18pF,50V,C0G,0603       
+C3         CAP0603                      TopLayer CAPC0603                     1232.111      373.654       0        CAPACITOR,CERAMIC,18pF,50V,C0G,0603       
+C14        CAP0603                      TopLayer CAPC0603                     947.465       623.811       90       CAPACITOR,CERAMIC,100nF,50V,X7R,0603      
+C8         CAP0603                      TopLayer CAPC0603                     570.496       653.339       270      CAPACITOR,CERAMIC,100nF,50V,X7R,0603      
+J1         CONN-USBC-USB2-HOR           TopLayer CONN-GCT-USB4085             410.394       135.023       0        CONN,USB-C,16P,RA,TH,8.94X9.17            
