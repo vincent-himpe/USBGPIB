@@ -1,17 +1,21 @@
 USBGPIB
 =======
 
+![mk-iii](Images/v3medium.png)
+
 This is a fork of the USB to GPIB adapter found at https://github.com/Galvant/gpibusb-pcb
 
 See the following repos for more information
 
 Firmware: https://www.github.com/Galvant/gpibusb-firmware
+
 Docs: https://www.github.com/Galvant/gpibusb-documentation
+
 Bootloader: https://www.github.com/Galvant/gpibusb-bootloader
 
-This is only a HARDWARE fork ! The existing firmware/bootloadr/documantation will work on this board.
+This is only a HARDWARE fork ! The existing firmware/bootloadr/documentation will work on this board.
 
-The original data is preserved in the REV4 folder
+The original data is preserved in the REV4 folder.
 
 ## Changes
 
@@ -24,6 +28,7 @@ The original data is preserved in the REV4 folder
 - Change to 4 layer board.
 - Designed the board to fit a small off-the-shelf Hammond enclosure.
 - Endcap available as a PCB so you don;t have to drill the plastic endcap of the box.
+- USB-C connector
 
 ## Layout
 
