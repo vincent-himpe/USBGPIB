@@ -1,7 +1,7 @@
 USBGPIB
 =======
 
-![mk-iii](Images/v3medium.png)
+![mk-iii](Images/usbgpibmedium.png)
 
 This is a fork of the USB to GPIB adapter found at https://github.com/Galvant/gpibusb-pcb
 
